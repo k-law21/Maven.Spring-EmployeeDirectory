@@ -13,6 +13,11 @@ public class Employee {
     private Long id;
     private String firstName;
     private String lastName;
+    private String title;
+    private Long phoneNumber;
+    private String email;
+    private String  hireDate;
+    private boolean manager;
 
 
     public Employee(){
